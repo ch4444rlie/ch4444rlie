@@ -10,7 +10,7 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
 ## 📚 Featured Projects
 - **[Synthetic Bank Statement Generator](https://github.com/ch4444rlie/SyntheticBank)**  
   Generates realistic Chase bank statements as PDFs using Python, Jinja2, and wkhtmltopdf. Designed for educational purposes to practice data handling while prioritizing privacy.
-  For a lightweight demo: [**Synthetic Bank Statement Demo**](https://syntheticbank-xutpjbpmddrzxd8tg2hgsw.streamlit.app/)  
+  For a lightweight demo: [**Synthetic Bank Statement Demo**](https://syntheticbank-jcemrxxikd4pgxqdkwf46j.streamlit.app/)  
   *Technologies*: Python, HTML, LLMs (Grok, ChatGPT), pdfkit.
 
 - **[Synthetic Crime Report Data](https://github.com/ch4444rlie/SyntheticCrimeReport)**  
