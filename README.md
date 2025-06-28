@@ -21,8 +21,8 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
   A Kùzu graph database of webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis.  
   *Technologies*: Python, Kùzu, yFiles, BeautifulSoup, pandas.
 
-- **[Neural Network for Classifying Pubmed Articles](https://github.com/ch4444rlie/NeuralNetworkPubMed)**  
-  Classifies scraped PubMed articles based on relevance using an LLM via Ollama for enhanced text analysis and visualizes results with Matplotlib. Designed to streamline biomedical literature filtering for research.
+- **[Neural Network for Classifying PubMed Articles](https://github.com/ch4444rlie/NeuralNetworkPubMed)**  
+  Classifies scraped PubMed articles for relevance using a neural network and an LLM via Ollama, with Matplotlib visualizations. Streamlines biomedical literature filtering for research.
   *Technologies*: Python, Ollama, Matplotlib, NumPy, Neural Networks (inspired by Neural Networks from Scratch).
   
 
