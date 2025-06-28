@@ -10,20 +10,21 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
 ## 📚 Featured Projects
 - **[Synthetic Bank Statement Generator](https://github.com/ch4444rlie/SyntheticBank)**  
   Generates realistic bank statements as PDFs using Python, Jinja2, and wkhtmltopdf. Designed for educational purposes to practice data handling while prioritizing privacy.
-  For a lightweight demo: [**Synthetic Bank Statement Demo**](https://syntheticbank-dnfssno8zabl6q9ns2hfi8.streamlit.app/)  
+  For a lightweight demo: [**Synthetic Bank Statement Demo**](https://syntheticamazonorder-newoooooaooooaoooa.streamlit.app/)  
   *Technologies*: Python, HTML, LLMs (Grok, ChatGPT), pdfkit.
 
 - **[Synthetic Crime Report Data](https://github.com/ch4444rlie/SyntheticCrimeReport)**  
   Creates synthetic crime reports with NIEM-inspired XML tagging to practice data structuring and government standards. Includes visualizations using NetworkX and Matplotlib.  
   *Technologies*: Python, XML, NetworkX, Matplotlib, Ollama.
 
-- **[Synthetic Amazon Order Data Generator](https://github.com/ch4444rlie/SyntheticAmazonOrder)**  
-  Produces realistic Amazon order data for testing and development, using Faker and pdfkit to mimic real-world e-commerce datasets.  
-  *Technologies*: Python, Faker, pdfkit, Ollama.
-
 - **[Webpages Graph Database](https://github.com/ch4444rlie/WebpagesGraphDatabase)**  
   A Kùzu graph database of webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis.  
   *Technologies*: Python, Kùzu, yFiles, BeautifulSoup, pandas.
+
+- **[Neural Network for Classifying Pubmed Articles](https://github.com/ch4444rlie/NeuralNetworkPubMed)**  
+  Classifies scraped PubMed articles based on relevance using an LLM via Ollama for enhanced text analysis and visualizes results with Matplotlib. Designed to streamline biomedical literature filtering for research.
+  *Technologies*: Python, Ollama, Matplotlib, NumPy, Neural Networks (inspired by Neural Networks from Scratch).
+  
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python
