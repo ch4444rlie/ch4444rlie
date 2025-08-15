@@ -23,7 +23,7 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
 
 ## 🔥 Active Project List
 - **[Anti-Money Laundering Neural Network](https://github.com/ch4444rlie/MoneyLaundering)**  
-  A neural network that aims to predict suspicious money laundhering activity in a synthetic dataset
+  A neural network that aims to predict suspicious money laundhering activity in a synthetic dataset.
   *Technologies so far*: Python, Kuzu, Torch, Matplotlib, NumPy, Scikit, (Methods inspired by [Project Aurora](https://github.com/ch4444rlie/MoneyLaundering/blob/master/aml-pa.pdf)).
   
 
