@@ -21,10 +21,14 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
   A Kùzu graph database of webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis.  
   *Technologies*: Python, Kùzu, yFiles, BeautifulSoup, pandas.
 
-## 🔥 Active Project List
+## 🔥 Active Projects
 - **[Anti-Money Laundering Neural Network](https://github.com/ch4444rlie/MoneyLaundering)**  
   A neural network that aims to predict suspicious money laundhering activity in a synthetic dataset.
   (Methods inspired by [Project Aurora](https://github.com/ch4444rlie/MoneyLaundering/blob/master/aml-pa.pdf)).
+  
+- **[AI-Powered Sheet Music Generator](https://github.com/ch4444rlie/Aiccompanist)**  
+  An AI-powered music transcription tool that extracts musical components from audio files and generates playable sheet music. Uses source separation, pitch detection, and chord analysis to create piano accompaniments from any song.
+  *Technologies thus far*: Python, PyTorch, Demucs, basic-pitch, music21, librosa, torchaudio.
   
 
 ## 🛠️ Tools & Technologies
