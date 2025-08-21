@@ -14,8 +14,10 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
   *Technologies*: Python, HTML, LLMs (Grok, ChatGPT), pdfkit.
 
 - **[Webpages Graph Database](https://github.com/ch4444rlie/WebpagesGraphDatabase)**  
-  A Kùzu graph database of webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis.  
-  *Technologies*: Python, Kùzu, yFiles, BeautifulSoup, pandas.
+  A Dockerized app harnessing Kùzu graph databasing to organize webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis, with Ollama generating keywords and summaries for links.
+*Technologies*: Docker, Python, Kùzu, yFiles, BeautifulSoup, pandas, Ollama.
+
+
 
 - **[Synthetic Crime Report Data](https://github.com/ch4444rlie/SyntheticCrimeReport)**  
   Creates synthetic crime reports with NIEM-inspired XML tagging to practice data structuring and government standards. Includes visualizations using NetworkX and Matplotlib.  
@@ -30,7 +32,7 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
   An AI-powered music transcription tool that extracts musical components from audio files and generates playable sheet music. Uses source separation, pitch detection, and chord analysis to create piano accompaniments from any song.<br>
   *Technologies thus far*: Python, PyTorch, Demucs, basic-pitch, music21, librosa, torchaudio.
 
-- **[Local Document RAG Chatbot](https://github.com/ch4444rlie/LocalRAGChatbot)**  
+- **[Local Document RAG Chatbot](https://github.com/ch4444rlie/localchatbot)**  
   An offline chatbot for querying and analyzing documents (Excel, CSV, PDF, TXT) with privacy-focused RAG and data visualization capabilities. Supports summarization, statistical analysis, and basic charts for local document processing.  
   *Technologies thus far*: Python, Streamlit, Ollama (Mistral 7B), Chroma, Pandas, PyMuPDF, Matplotlib, Seaborn, Plotly.
 
