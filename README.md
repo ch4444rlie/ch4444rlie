@@ -13,13 +13,13 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
   For a lightweight demo: [**Synthetic Bank Statement Demo**](https://synthetic-newoooooaooooaoooa.streamlit.app/)  
   *Technologies*: Python, HTML, LLMs (Grok, ChatGPT), pdfkit.
 
-- **[Synthetic Crime Report Data](https://github.com/ch4444rlie/SyntheticCrimeReport)**  
-  Creates synthetic crime reports with NIEM-inspired XML tagging to practice data structuring and government standards. Includes visualizations using NetworkX and Matplotlib.  
-  *Technologies*: Python, XML, NetworkX, Matplotlib, Ollama.
-
 - **[Webpages Graph Database](https://github.com/ch4444rlie/WebpagesGraphDatabase)**  
   A Kùzu graph database of webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis.  
   *Technologies*: Python, Kùzu, yFiles, BeautifulSoup, pandas.
+
+- **[Synthetic Crime Report Data](https://github.com/ch4444rlie/SyntheticCrimeReport)**  
+  Creates synthetic crime reports with NIEM-inspired XML tagging to practice data structuring and government standards. Includes visualizations using NetworkX and Matplotlib.  
+  *Technologies*: Python, XML, NetworkX, Matplotlib, Ollama.
 
 ## 🔥 Active Projects
 - **[Anti-Money Laundering Neural Network](https://github.com/ch4444rlie/MoneyLaundering)**  
