@@ -15,7 +15,7 @@ I'm a data enthusiast with a background in **Integrative Biology** (University o
 
 - **[Webpages Graph Database](https://github.com/ch4444rlie/WebpagesGraphDatabase)**  
   A Dockerized app harnessing Kùzu graph databasing to organize webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis, with Ollama generating keywords and summaries for links.
-*Technologies*: Docker, Python, Kùzu, yFiles, BeautifulSoup, pandas, Ollama.
+<br>*Technologies*: Docker, Python, Kùzu, yFiles, BeautifulSoup, pandas, Ollama.
 
 
 
