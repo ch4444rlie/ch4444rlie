@@ -1,6 +1,6 @@
 # Hi, I'm Charles! 👋
 
-I'm a data enthusiast with a background in **Integrative Biology** (University of Illinois, 3.83 GPA) and a passion for **Python**, **data analysis**, and **synthetic data generation**. My projects focus on creating realistic datasets, building graph databases, and applying machine learning to solve real-world problems. I enjoy simplifying complex technical concepts for non-experts and building tools that are both practical and educational.
+I'm a data enthusiast with a background in **Integrative Biology** (University of Illinois, 3.83 GPA) and a passion for **Python**, **data analysis**, and **synthetic data generation**. My projects focus on creating realistic datasets, building graph databases, and applying machine learning to solve real-world problems. 
 
 ## 🚀 What I Do
 - **Synthetic Data Generation**: Crafting realistic datasets like bank statements, crime reports, and orders for privacy-safe development and learning.
