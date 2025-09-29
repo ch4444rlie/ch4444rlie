@@ -1,38 +1,20 @@
 # Hi, I'm Charles! 👋
 
-I'm a data enthusiast with a background in **Integrative Biology** (University of Illinois, 3.83 GPA) and a passion for **Python**, **data analysis**, and **synthetic data generation**. My projects focus on creating realistic datasets, building graph databases, and applying machine learning to solve real-world problems. 
-
-## 🚀 What I Do
-- **Synthetic Data Generation**: Crafting realistic datasets like bank statements, crime reports, and orders for privacy-safe development and learning.
-- **Graph Databases**: Designing and visualizing interconnected data using Kùzu and yFiles, from webpage link networks to employee organizational structures and more.
-- **Machine Learning**: Developing neural networks to predict article relevance, analyze meme coin prices, or other things that interest me.
-
-## 🔥 Active Projects
-- **[Anti-Money Laundering Neural Network](https://github.com/ch4444rlie/MoneyLaundering)**  
-  A graph neural network that aims to predict suspicious money laundhering activity in a synthetic dataset.
-  (Methods inspired by [Project Aurora](https://github.com/ch4444rlie/MoneyLaundering/blob/master/aml-pa.pdf)).
-  
-- **[AI-Powered Sheet Music Karaoke Generator](https://github.com/ch4444rlie/Aiccompanist)**  
-  An AI-powered music transcription tool that extracts musical components from audio files and generates playable sheet music. Uses source separation, pitch detection, and chord analysis to create piano accompaniments from any song.<br>
-  *Technologies thus far*: Python, PyTorch, Demucs, basic-pitch, music21, librosa, torchaudio.
-
-- **[Local Document RAG Chatbot](https://github.com/ch4444rlie/localchatbot)**  
-  An offline chatbot for querying and analyzing documents (Excel, CSV, PDF, TXT) with privacy-focused RAG and data visualization capabilities. Supports summarization, statistical analysis, and basic charts for local document processing.  
-  *Technologies thus far*: Python, Streamlit, Ollama (Mistral 7B), Chroma, Pandas, PyMuPDF, Matplotlib, Seaborn, Plotly.
+I enjoy playing with data, machine learning techniques, and AI. My background is in **Integrative Biology** (University of Illinois, 3.83 GPA). My projects focus on building graph databases, creating realistic datasets, and applying machine learning to solve real-world problems. 
 
 ## 📚 Featured Projects
-- **[Synthetic Bank Statement Generator](https://github.com/ch4444rlie/SyntheticBank)**  
-  Generates realistic bank statements as PDFs using Python, Jinja2, and wkhtmltopdf. Designed for educational purposes to practice data handling while prioritizing privacy.
-  For a lightweight demo: [**Synthetic Bank Statement Demo**](https://synthetic-newoooooaooooaoooa.streamlit.app/)  
-  *Technologies*: Python, HTML, LLMs (Grok, ChatGPT), pdfkit.
-
 - **[Webpages Graph Database](https://github.com/ch4444rlie/WebpagesGraphDatabase)**  
   A Dockerized app harnessing Kùzu graph databasing to organize webpages and links, visualized with yFiles. Extracts and categorizes content using BeautifulSoup and pandas for network analysis, with Ollama generating keywords and summaries for links.
 <br>*Technologies*: Docker, Python, Kùzu, yFiles, BeautifulSoup, pandas, Ollama.
 
-- **[Synthetic Crime Report Data](https://github.com/ch4444rlie/SyntheticCrimeReport)**  
-  Creates synthetic crime reports with NIEM-inspired XML tagging to practice data structuring and government standards. Includes visualizations using NetworkX and Matplotlib.  
-  *Technologies*: Python, XML, NetworkX, Matplotlib, Ollama.
+- **[Fantasy Anti-Money Laundering Lab](https://github.com/ch4444rlie/Fantasy_synthetic_lab)**  
+  A notebook lab that highlights technology used in real world anti-money laundering practices, wrapped in the context of a fantasy themed detective story.
+  *Technologies*: Python, SDV, Ollama, ReportLab, Torch, ChromaDB.
+  
+- **[Synthetic Bank Statement Generator](https://github.com/ch4444rlie/SyntheticBank)**  
+  Generates realistic bank statements as PDFs using Python, Jinja2, and wkhtmltopdf. Designed for educational purposes to practice data handling while prioritizing privacy.
+  For a lightweight demo: [**Synthetic Bank Statement Demo**](https://synthetic-newoooooaooooaoooa.streamlit.app/)  
+  *Technologies*: Python, HTML, LLMs (Grok, ChatGPT), pdfkit.
 
 
 ## 🛠️ Tools & Technologies
