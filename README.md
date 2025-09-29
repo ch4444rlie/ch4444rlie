@@ -1,6 +1,6 @@
 # Hi, I'm Charles! 👋
 
-I enjoy playing with data, machine learning techniques, and AI. My background is in **Integrative Biology** (University of Illinois, 3.83 GPA). My projects focus on building graph databases, creating realistic datasets, and applying machine learning to solve real-world problems. 
+I enjoy playing with data, machine learning techniques, and AI. My background is in **Integrative Biology** (University of Illinois, 3.83 GPA). The projects here focus on building graph databases, creating realistic datasets, and applying machine learning to solve real-world problems. 
 
 ## 📚 Featured Projects
 - **[Webpages Graph Database](https://github.com/ch4444rlie/WebpagesGraphDatabase)**  
